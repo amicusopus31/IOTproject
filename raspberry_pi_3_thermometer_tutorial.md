@@ -30,4 +30,6 @@ sudo ./DHT_thermometer.py 2302 4
 ```
 ### the output would be
 ![pinnum](https://i.imgur.com/aNhVyT0.jpg)
+![outputphoto](https://i.imgur.com/0mBUUqv.jpg)
 ## Demo video
+[Demo video](http://pcse.pw/7ERUR)

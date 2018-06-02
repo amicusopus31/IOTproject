@@ -21,3 +21,13 @@ sudo ./AdafruitDHT.py 2302 4
 ![DHToutput](https://i.imgur.com/3VErcqu.jpg)
 ## Wiring up seven segment display
 ![sevensegwire](https://i.imgur.com/hHWT7vn.jpg)
+### Pin Numbering
+![pinnum](https://i.imgur.com/zrMlNQ5.jpg)
+## See if it works
+### download DHT_thermometer.py 
+```cmd
+sudo ./DHT_thermometer.py 2302 4
+```
+### the output would be
+![pinnum](https://i.imgur.com/aNhVyT0.jpg)
+## Demo video

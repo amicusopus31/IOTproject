@@ -20,3 +20,4 @@ sudo ./AdafruitDHT.py 2302 4
 ### The output would be
 ![DHToutput](https://i.imgur.com/3VErcqu.jpg)
 ## Wiring up seven segment display
+![sevensegwire](https://i.imgur.com/hHWT7vn.jpg)
